@@ -63,8 +63,6 @@ void loop() {
         Serial.println("TEXT COMMANDS [interact with the pc]: cmds, spacer");
       } else if (command.equals("spacer")) {
         Serial.println("--------------------------------------------");
-      } else if (command.equals("doom")) {
-        doom();
       } else {
         Serial.println("cmd nil");
       }
