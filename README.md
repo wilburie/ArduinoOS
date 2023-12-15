@@ -11,7 +11,7 @@ If you don't want to use the IDE then you can use PuTTY but it's way slower and 
 BLUE LED - pin 5
 WHITE LED - pin 6
 RED LED - pin 7
-BUZZER - pin 11 (negitive can reach the single GND on the pin side)
+GREEN LED - pin 8
+DHT-11 - pin 2
 # Notes
-Your buzzer HAS to be one that can make multiple tones.
 The default password for ArduinoOS is "1066". You can change this if you want by going into the code and scrolling until you reach the string "password".
